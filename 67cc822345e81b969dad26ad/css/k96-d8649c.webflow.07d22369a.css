@@ -1188,7 +1188,7 @@ img {
   background-color: var(--primary);
   border-bottom-right-radius: 2rem;
   border-bottom-left-radius: 2rem;
-  min-height: 100svh !important;
+  min-height: 100vh !important;
   position: relative;
   display: flex;
   align-items: center;

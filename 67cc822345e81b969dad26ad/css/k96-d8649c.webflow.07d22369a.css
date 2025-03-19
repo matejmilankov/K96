@@ -1901,39 +1901,7 @@ img {
     left: 30%;
   }
   
-  .top-right {
+  .top-right, .bottom-right {
     right: 30%;
-  }
-  
-  .bottom-right {
-    right: 30%;
-  }
-}
-
-@media (max-width: 500px) {
-  .top-left {
-    left: 25%;
-  }
-  
-  .top-right {
-    right: 25%;
-  }
-  
-  .bottom-right {
-    right: 25%;
-  }
-}
-
-@media (max-width: 400px) {
-  .top-left {
-    left: 20%;
-  }
-  
-  .top-right {
-    right: 20%;
-  }
-  
-  .bottom-right {
-    right: 20%;
   }
 }
